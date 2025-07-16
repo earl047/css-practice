@@ -1,0 +1,29 @@
+.one {
+    background-color: pink;
+    font: Verdana;
+    font-family: Verdana, DejaVU Sans, sans-serif;
+}
+#two {
+    color: blue;
+    font-size: 36px;
+}
+.three{
+    background-color: pink;
+    font: Verdana;
+    font-family: Verdana, DejaVU Sans, sans-serif;
+    font-size: 24px;
+}
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+.five{
+    background-color: pink;
+    font: Verdana;
+    font-family: Verdana, DejaVU Sans, sans-serif;
+}
+#borderimg{ 
+  border: 10px solid transparent;
+  padding: 15px;
+}
