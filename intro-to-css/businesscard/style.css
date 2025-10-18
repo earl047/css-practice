@@ -2,13 +2,27 @@
     background-color: aquamarine;
     align-items: center;
     justify-content: center;
+    height: 600px;
+    width: 600px;
+    padding: 20px;
+    place-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #004D40;
     
 }
 
-.profile{
-    align-items: center;
-    align-content: center;
-    justify-content: center;
-    height: 400px;
-    width: 300px;
+.profile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  padding: 10px;
+  background-color: rgb(252, 240, 240);
 }
+.port {
+    background-color: #004D40;
+    color:white;
+}
+
